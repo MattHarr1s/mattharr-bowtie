@@ -26,7 +26,7 @@ theme:
     country:  USA
     phone:
     latlng:   39.733536,-104.992611 # (e.g. '39.733536,-104.992611')
-    twitter:  https://twitter.com/matt636               # (e.g. 'https://twitter.com/twitter')
+    twitter:  matt636               # (e.g. 'https://twitter.com/twitter')
     facebook:               # (e.g. 'https://www.facebook.com/facebook')
     github:                         # (e.g. 'https://github.com/github')
     instagram:                      # (e.g. 'https://instagram.com/instagram')
