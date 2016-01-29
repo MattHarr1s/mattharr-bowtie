@@ -57,7 +57,7 @@ theme:
 permalink:           /:categories/:title/
 relative_permalinks: false
 highlighter: false
-gems:
+
 
 # Pagination config
 paginate: 5
