@@ -36,8 +36,8 @@ theme:
 
   authors:                          # Author attribution data
     john:
-      display_name: John Doe
-      gravatar:     1985af848d639efd74c6af48f242cfa8  # use hash only (e.g. '1985af848d639efd74c6af48f242cfa8')
+      display_name: Matthew Harris
+      gravatar:       # use hash only (e.g. '1985af848d639efd74c6af48f242cfa8')
       email:                        # (e.g. 'info@example.com')
       web:                          # (e.g. 'https://example.com')
       twitter:                      # (e.g. 'https://twitter.com/twitter')
