@@ -28,7 +28,7 @@ theme:
     latlng:   35.1107,-106.6100 # (e.g. '39.733536,-104.992611')
     twitter:  matt636               # (e.g. 'https://twitter.com/twitter')
     facebook:               # (e.g. 'https://www.facebook.com/facebook')
-    github: https://github.com/MattHarr1s                         # (e.g. 'https://github.com/github')
+    github: MattHarr1s                         # (e.g. 'https://github.com/github')
     instagram:                      # (e.g. 'https://instagram.com/instagram')
     flickr:                         # (e.g. 'groups/2772799@N24/')
     linkedin:                       # (e.g. 'company/example')
