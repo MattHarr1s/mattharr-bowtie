@@ -24,7 +24,7 @@ theme:
     state:    NM
     zip:      87107
     country:  USA
-    phone:
+    phone: 505-750-1523
     latlng:   35.1107,-106.6100 # (e.g. '39.733536,-104.992611')
     twitter:  matt636               # (e.g. 'https://twitter.com/twitter')
     facebook:               # (e.g. 'https://www.facebook.com/facebook')
