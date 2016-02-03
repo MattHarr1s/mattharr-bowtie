@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  News About Matt
-subtitle: News Stories About Matt's Achievements
+title:  Matthew in the News
+subtitle: IGNITE Community Accelerator Program Accepts New Class of Startups
 author: john
-date: 2016-02-06 15:36:37
+date: 2016-02-02 15:36:37
 masthead-img: false
 masthead-img-pat:
 categories: News
@@ -14,7 +14,7 @@ share: true
 
 ---
 
-{% highlight html %}
-**News Stories About Matt**
-{% endhighlight %}
+{ % highlight html % }
+The
+{ % endhighlight % }
 
