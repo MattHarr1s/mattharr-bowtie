@@ -1,0 +1,22 @@
+<html ng-app="TranslateApp">
+	<body>
+		<main class="container" ng-controller="LocaleController">
+			<h1>{{ "HI" | translate:localeData}}</h1>
+			<form class="form-horizontal well" ng-submit="return false;">
+				<div class="form-group">
+					<label class="control-label" for="name" translate="">YOUR_NAME</label>
+					<div class="input-group">
+						<div class="input-group-addon">
+							<i class="fa fa-user" aria-hidden="true"></i>
+						</div>
+						<input class="form-control" type="text" name="name" ng-model="localeData.name" />
+					</div>
+				</div>
+				<button class="btn btn-success" type="submit"><i class="fa fa-floppy-o" aria-hidden="true"></i> <span translate>SAVE</span></button>
+			</form>
+			<div class="row">
+				<button class="btn btn-info" ng-click="changeLanguage('en');">English</button>
+				<button class="btn btn-info" ng-click="changeLanguage('es');">Español</button>
+			</div>
+		</main>
+	</body>
