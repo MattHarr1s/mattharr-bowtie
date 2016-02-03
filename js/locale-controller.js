@@ -1,6 +1,6 @@
 app.controller("LocaleController", ["$scope", "$translate", function($scope, $translate) {
 	$scope.localeData = {
-		"name": "RedPoint"
+		"name": "Your Name"
 	};
 
 	$scope.changeLanguage = function(language) {
