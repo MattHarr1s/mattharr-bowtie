@@ -1,0 +1,5 @@
+{
+  "HI": "Hi, {{ name }}!",
+  "SAVE": "Save",
+  "YOUR_NAME": "What is your name?"
+}
