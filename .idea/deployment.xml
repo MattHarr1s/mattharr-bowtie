@@ -2,6 +2,27 @@
 <project version="4">
   <component name="PublishConfigData">
     <serverData>
+      <paths name="about-matt">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="basic-mockup">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bootcamp-coders">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="chapter_3">
         <serverdata>
           <mappings>
@@ -9,7 +30,21 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="chapter_4">
+      <paths name="curly-succotash-bootstrap-fun">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="java-assignment">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="json-resume">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -38,6 +73,13 @@
         </serverdata>
       </paths>
       <paths name="the-onion">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wargames_team1">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
